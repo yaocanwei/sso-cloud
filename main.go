@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/sso-cloud/utils/midlog"
+	"github.com/yaocanwei/sso-cloud/utils/midlog"
 	"log"
 
 	"net/http"
